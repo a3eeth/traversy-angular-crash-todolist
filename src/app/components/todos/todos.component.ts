@@ -7,8 +7,8 @@ import { Todo } from '../../models/Todo';
   styleUrls: ['./todos.component.css']
 })
 export class TodosComponent implements OnInit {
-  todos:Todo[];
-
+  todos: Todo[];
+  // only use to import services
   constructor() { }
 
   ngOnInit() {
@@ -28,7 +28,7 @@ export class TodosComponent implements OnInit {
         title: 'todo3',
         completed: false
       }
-    ]
+    ];
   }
 
 }
