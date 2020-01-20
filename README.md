@@ -1,3 +1,19 @@
+# Resources
+
+> Course Content 
+>> https://www.youtube.com/watch?v=Fdf5aTYRW0E&t=531s
+
+> Angular Basics 
+>> https://www.youtube.com/watch?v=-NEIfsnEGQY
+
+> Mosh guide to Angular
+>> https://www.youtube.com/watch?list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT&v=k5E2AVpwsko 
+
+> Command Line Interface Guides 
+>> https://angular.io/cli
+
+# LOOK UP MVC
+
 # AngularCrashTodolist
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
